@@ -1,0 +1,37 @@
+{
+  "name": "lalala-backend",
+  "version": "0.0.1",
+  "description": "This project is about this and that",
+  "private": false,
+  "keywords": [
+    "create-some-app",
+    "cli app",
+    "cli starter",
+    "cli scaffolder",
+    "cli bootstrapper",
+    "fullstack gatsby sanity",
+    "gatsby sanity",
+    "gatsby",
+    "sanity",
+    "fullstack"
+  ],
+  "author": "Wallace Sidhrée <i@dreamyguy.com> (https://github.com/dreamyguy)",
+  "homepage": "https://the-project-name.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dreamyguy/lalala.git"
+  },
+  "license": "MIT",
+  "copyright": "Copyright (c) Wallace Sidhrée & Client Inc. - All rights reserved.",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "^v12.14.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,2 @@
+GATSBY_ACTIVE_ENV = develop
+SANITY_TOKEN = a-lengthy-hash-string-that-allows-making-requests-to-Sanity-Studio-through-the-frontend

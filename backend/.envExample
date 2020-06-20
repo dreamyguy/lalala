@@ -1,0 +1,6 @@
+# See:
+# https://www.sanity.io/docs/studio-environment-variables#dot-env-files-env-f5e9e3158896
+
+# These variables are set by Sanity, so don't change their names, only their values!
+SANITY_STUDIO_API_PROJECT_ID = a-short-hash-string-that-connects-the-local-Sanity-Studio-to-the-remote-one
+SANITY_STUDIO_API_DATASET = production
