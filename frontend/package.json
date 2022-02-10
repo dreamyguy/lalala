@@ -43,7 +43,7 @@
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-source-sanity": "^5.0.5",
     "gatsby-transformer-sharp": "^2.3.14",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-preset-env": "^6.7.0",
     "react": "^16.13.0",
     "react-dom": "^16.12.0",
